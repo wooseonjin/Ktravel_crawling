@@ -1,5 +1,5 @@
 # main.py
-from travel_crawler import crawl_naver_travel, get_ai_recommended_region
+from crawler import crawl_naver_travel, get_ai_recommended_region
 
 def show_menu():
     print("\n" + "=" * 45)
